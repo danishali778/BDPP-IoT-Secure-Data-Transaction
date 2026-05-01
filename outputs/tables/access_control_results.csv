@@ -1,0 +1,2 @@
+base_valid_allow,base_invalid_block,base_revoked_block,proposed_valid_allow,proposed_invalid_block,proposed_revoked_block,or_policy_doctor_allow,collusion_without_full_key_block,ciphertext_policy_authorities,valid_authority_fragments
+1,1,0,1,1,1,1,1,3,4
