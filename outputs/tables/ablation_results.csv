@@ -1,0 +1,6 @@
+configuration,revocation_enabled,ebr_enabled,ml_pricing_enabled,revoked_user_blocked,unreliable_ckks_detected,pricing_mae,security_score,pricing_improvement_percent
+Base paper simulation,0,0,0,0,0,100.27005203097912,0.0,0.0
+Full BDPP-IoT,1,1,1,1,1,11.217385659614619,1.0,88.81282553224473
+Without revocation,0,1,1,0,1,11.217385659614619,0.5,88.81282553224473
+Without EBR,1,0,1,1,0,11.217385659614619,0.5,88.81282553224473
+Without ML pricing,1,1,0,1,1,100.27005203097912,1.0,0.0

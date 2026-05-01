@@ -1,0 +1,4 @@
+Name,CPU % (max),CPU % (avg),Memory max (MB),Memory avg (MB)
+ganache_node,92.4,39.522666666666666,110.8125,89.7234375
+ipfs_kubo_cli,49.9,34.35,29.33203125,23.34765625
+python_pipeline,94.3,47.81333333333333,287.77734375,284.9491145833333
