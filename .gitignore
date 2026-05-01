@@ -1,0 +1,9 @@
+.venv/
+.ipfs/
+node_modules/
+tools/kubo.zip
+tools/kubo/
+tools/solcx/
+outputs/
+__pycache__/
+*.pyc
